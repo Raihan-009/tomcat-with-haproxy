@@ -1,5 +1,5 @@
 up:
-	@ docker-compose up --build
+	@ sudo docker-compose up --build
 
 down:
-	@ docker-compose down -v
+	@ sudo docker-compose down -v
